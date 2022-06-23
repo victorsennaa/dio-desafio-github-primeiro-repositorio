@@ -1,0 +1,3 @@
+Nesta parte do curso começamos de fato a enteder melhor como funcionar a relação da programação com o computador.
+Além de compreendemos o funcionamento logico por trás de um sistema.
+Além do primeiro contato com a progamação, em uma liguagem chamada Portugol.
